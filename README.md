@@ -2,7 +2,7 @@
 
 * Descargar o clonar el repositorio de SMG y este repositorio en la misma carpeta, deberia verse de la siguiente manera
 
-[logo]
+![][logo]
 
 [logo]: https://raw.githubusercontent.com/ImanolFotiaSnoopConsulting/Instalacion-smg-seguros-Con-Docker/master/img.png
 
