@@ -6,9 +6,11 @@ if [ ! -f smg-dir ]; then
 else
 	cd smg-seguros-productores/app/smg-seguros
 	npm install
+        echo -ne '\n' | react-native link
 	npm i exp -g
 	npm i expo-cli@2.6.13
-	cd smg-seguros-productores/app/smg-seguros/android
+	npm install react-native-newrelic --save
+	cd android
 	sed -i 's/\r//g' gradlew
 	./gradlew clean
 	./gradlew assembleDebug

@@ -15,7 +15,7 @@ crear_docker.bat
 * Una vez finalizado correr el siguiente comando,
 donde ``NOMBREDEUSUARIO`` es el usuario actualmente en uso:
 ```
-docker run -v c:/Users:/NOMBREDEUSUARIO -it android-dev --network host
+docker run -v c:/Users:/NOMBREDEUSUARIO -it --network host android-dev
 ```
 
 * Ya dentro de Linux, ingresar al directorio donde se encuentra el archivo ``compile.sh``
