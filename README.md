@@ -18,7 +18,7 @@ donde ``NOMBREDEUSUARIO`` es el usuario actualmente en uso:
 docker run -v c:/Users:/NOMBREDEUSUARIO -it --network host android-dev
 ```
 
-* Ya dentro de Linux, ingresar al directorio donde se encuentra el archivo ``compile.sh``
+* Ya dentro de Linux, ingresar al directorio donde se encuentra el archivo ``compilar.sh``
 
 * Correr: 
 
@@ -30,4 +30,4 @@ docker run -v c:/Users:/NOMBREDEUSUARIO -it --network host android-dev
 
 * Si surgen errores durante la compilacion, verificar que se realizaron los cambios aclarados en el archivo ``Pasos a seguir.txt``
 
-* Bajo ninguna circunstancia modificar el archivo ``compile.sh`` en Windows, abrirlo y cerrarlo sin guardar esta bien
+* Bajo ninguna circunstancia modificar el archivo ``compilar.sh`` en Windows, abrirlo y cerrarlo sin guardar esta bien
