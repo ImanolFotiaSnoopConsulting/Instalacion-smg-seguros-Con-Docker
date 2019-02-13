@@ -4,7 +4,7 @@
 
 [logo]
 
-[logo]: https://github.com/ImanolFotiaSnoopConsulting/Instalacion-smg-seguros-Con-Docker/img.png 
+[logo]: https://raw.githubusercontent.com/ImanolFotiaSnoopConsulting/Instalacion-smg-seguros-Con-Docker/master/img.png
 
 
 * Con la ultima version de Docker instalada, correr el archivo 
