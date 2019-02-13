@@ -21,4 +21,6 @@ docker run -v c:/Users:/NOMBREDEUSUARIO -it android-dev --network host
 
 ## Aclaraciones
 
-Si surgen errores durante la compilacion, verificar que se realizaron los cambios aclarados en el archivo ``Pasos a seguir.txt``
+* Si surgen errores durante la compilacion, verificar que se realizaron los cambios aclarados en el archivo ``Pasos a seguir.txt``
+
+* Bajo ninguna circunstancia modificar el archivo ``compile.sh`` en Windows, abrirlo y cerrarlo sin guardar esta bien
