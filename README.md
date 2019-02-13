@@ -1,5 +1,12 @@
 ## Instructivo de compilacion de la aplicacion SMG-SEGUROS
 
+* Descargar o clonar el repositorio de SMG y este repositorio en la misma carpeta, deberia verse de la siguiente manera
+
+[logo]
+
+[logo]: https://github.com/ImanolFotiaSnoopConsulting/Instalacion-smg-seguros-Con-Docker/img.png 
+
+
 * Con la ultima version de Docker instalada, correr el archivo 
 ```
 crear_docker.bat
