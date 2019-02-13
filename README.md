@@ -23,7 +23,7 @@ docker run -v c:/Users:/NOMBREDEUSUARIO -it --network host android-dev
 * Correr: 
 
 ```
-./compile.sh
+./compilar.sh
 ``` 
 
 ## Aclaraciones
